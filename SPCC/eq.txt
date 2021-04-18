@@ -1,0 +1,5 @@
+int ab = 4;
+float d = 2
+
+float e = (float)ab + d;
+
