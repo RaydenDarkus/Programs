@@ -1,6 +1,6 @@
 /*Identify the identifiers,keywords,operators,brackets and count and display them*/
 %{
-	#include<stdio.h>
+    #include<stdio.h>
     #include <string.h>
     int  opr_count=0,ope_count=0,bracket_count=0,keyword_count=0,x=0,y=0,z=0,c=0,j=0,i=0,p=0;
     char operands[100][100], operators[100][100], stack[100][100] , keywords[100][100];
